@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./synopsishymenoph00bosc_0001.png"; bbox 0 0 2138 3412; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 2097 44 2163">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 2097 44 2163">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 2097 44 2163; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 0 2097 44 2163; x_wconf 62' lang='lat' dir='ltr'>mn}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 35 2121 49 2246">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 35 2121 49 2246">
+     <span class='ocr_line' id='line_1_2' title="bbox 35 2121 49 2246; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 35 2121 49 2246; x_wconf 68' lang='grc'><em>,.....,.,...</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 587 56 2095">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 587 56 2095">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 587 56 2095; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 0 1943 56 2095; x_wconf 48' lang='lat' dir='ltr'>{mmm</span> <span class='ocrx_word' id='word_1_4' title='bbox 0 1445 2 1448; x_wconf 85' lang='lat'>·</span> <span class='ocrx_word' id='word_1_5' title='bbox 0 1388 3 1393; x_wconf 88' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 42 1240 45 1241; x_wconf 71' lang='grc'>,</span> <span class='ocrx_word' id='word_1_7' title='bbox 8 1161 11 1163; x_wconf 95' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 0 587 49 880; x_wconf 49' lang='lat' dir='ltr'>&#39;nm-iiim»,-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2138 3412">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2138 3412">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2138 3412; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2138 3412; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2106 2166 2138 2934">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2106 2166 2138 2934">
+     <span class='ocr_line' id='line_1_5' title="bbox 2106 2166 2138 2934; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 2115 2889 2138 2934; x_wconf 68' lang='grc' dir='ltr'>Λῦη</span> <span class='ocrx_word' id='word_1_11' title='bbox 2112 2639 2138 2864; x_wconf 45' lang='lat' dir='ltr'>mnae-nemun«.</span> <span class='ocrx_word' id='word_1_12' title='bbox 2122 2396 2138 2622; x_wconf 63' lang='lat' dir='ltr'>mne-onevmvoou-</span> <span class='ocrx_word' id='word_1_13' title='bbox 2106 2166 2138 2384; x_wconf 64' lang='lat' dir='ltr'>‹‘121.⁷1t&#39;231tssz&lt;1.n=</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
